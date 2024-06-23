@@ -1,0 +1,107 @@
+
+Hey! My Name is ANSH BAKSHI
+
+
+
+                        A)  ABOUT 
+
+Hey there my name is Ansh Bakshi and I am currently pursuing third year in Computer Science with specialization in 
+CyberSecurity, at Shri Ramdeobaba College of Engineering and Management, Nagpur. I am a dedicated and passionate 
+network enthusiast committed to continuous learning. As a skilled code practitioner, I excel in finding efficient
+and innovative solutions. My approach focuses on streamlining processes, seeking shortcuts, and delivering workable 
+solutions. Known for simplifying tasks, I optimize workflows with a proactive and results-oriented mindset.
+My genuine enthusiasm for networking drives my commitment to seamless IT system functionality. I had participated in 
+Smart India Hackathon, and served a Blockchain club as Content lead.
+
+                         B)  EDUCATION (CLICK )
+
+SCHOOL:-
+Sanskar Vidya Sagar. 
+2005-2018
+
+HIGH SCHOOL:-
+St Paul Junior College. 
+2018-2020
+
+COLLEGE:-
+Shri Ramdeobaba College of Engineering and Management. 
+2021-2025
+
+                        C) SKILLS AND TECHNOLOGIES (CLICK )
+
+Languages:-
+Java, C Programming, Golang
+
+Frontend:-
+HTML, JavaScript, React
+
+Clouds & Databases:-
+R Language, NoSQL, AWS (IAM, EC2, S3)
+
+Docker Tools:-
+Netcraft, Harvester, Nmap, Wireshark, Metasploit, CWE, CVE Exploit Database, VirusTotal, Macof, OWASP ZAP, BurpSuite, SQLMap, RMail, CrypTool, AOMEI Backupper Tool
+
+                          D)  COURSES & CERTIFICATES (CLICK )
+
+• AI for Everyone: Master the Basics - EDX
+
+• Cybersecurity Basics - EDX
+
+• Introduction to Data Science - EDX
+
+• Introduction to Web Development with HTML5, CSS3, and JavaScript - EDX
+
+• Blockchain: Understanding Its Uses and Implications - EDX
+
+• Introduction to Cloud Computing - EDX
+
+• Zscaler Zero Trust Cloud Security Virtual Internship Certificate
+
+• PaloAlto Networks certificates
+
+                          E)  PROJECTS (CLICK )
+
+Dark Web Recon Tool
+The Dark Web Recon Tool is a comprehensive solution designed to monitor the dark web, identify potential criminal activities, and report findings to law enforcement agencies. The Dark Web Recon Tool will provide Enhanced Monitoring and Surveillance, Anonymity and Privacy Considerations, Identify Potential Criminal Activities, Real-time Analysis and Alerts, and Evidence Collection.
+USED: Python, pyttsx3 module, engine.say(), engine.runAndWait(), pypdf module, PdfReader, reader, reader.pages[], page.extract_text(), speech_recognition module, pyaudio.
+
+Royal Reel Theaters
+In the Royal Reel Theaters project, I utilized the context of React to enhance user experience and functionality. Specifically, I implemented logic to facilitate the selection and deselection of seats within the theater. Moreover, I incorporated the use of context steps such as provider and register to manage state and efficiently handle seat selection processes.
+USED: React, JavaScript, use context, context steps, provider, register
+LINK: https://ansh.webnetis.com/
+
+Ride Relay
+In the Ride Relay project, I developed the frontend interface. I integrated the Mapbox API within a React environment to fetch coordinates for mapping purposes. Furthermore, I utilized the useRef hook to efficiently manage pickup and drop-off location inputs. Additionally, I leveraged Material UI to enhance the visual aesthetics and user interface of the application.
+USED: React, Mapbox API, useRef hook, Material UI
+LINK: https://iamanshbakshi.github.io/
+
+ClimateConnect API
+In the ClimateConnect API project, I leveraged the Axios library within a React framework to facilitate HTTP requests. Specifically, I employed both POST and GET methods to interact with the ClimateConnect API effectively. Moreover, I implemented robust state management techniques to ensure seamless handling of data within the application. Additionally, I incorporated functionality to showcase real-time weather data for various cities, enhancing the user experience with dynamic content.
+USED: React, Axios library, HTTP requests, POST methods, GET methods, API key
+
+                          F)  INTERNSHIPS & EXPERIENCE (CLICK )
+
+A) JUNIPER NETWORKING CLOUD VIRTUAL INTERNSHIP (DEC - FEB 2023)
+
+B) PALO ALTO CYBERSECURITY VIRTUAL INTERNSHIP (MAY - JULY 2023)
+
+C) ZSCALER ZERO TRUST CLOUD SECURITY VIRTUAL INTERNSHIP (SEP - NOV 2023)
+
+D) Tata Group Cybersecurity Analyst VIRTUAL INTERNSHIP
+
+
+
+                          G) Contact Info
+
+GMAIL-ID:-anshsbakshi@gmail.com
+CONTACT-NO:-9175121799
+LOCATION:-Nagpur, Maharashtra, India
+LINKEDIN:-https://www.linkedin.com/in/ansh-bakshi-5550b122b/
+GITHUB:-https://github.com/iamanshbakshi
+PORTFOLIO:-https://sites.google.com/rknec.edu/ansh-bakshi/home
+
+
+
+
+
+

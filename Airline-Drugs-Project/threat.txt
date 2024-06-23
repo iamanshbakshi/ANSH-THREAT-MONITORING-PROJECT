@@ -1,0 +1,35 @@
+Timestamp: 2024-06-20 13:48:41
+Text: hi distance from Shri Ramdev baba college of Engineering and Management no I am going to do the best of the best and used narcotics drugs weapons illegal narcotics drugs illegal weapons Delta stop
+drugs: 2 times
+weapons: 2 times
+hijack: 0 times
+kill: 0 times
+threat: 0 times
+narcotic: 0 times
+
+Timestamp: 2024-06-20 13:53:13
+Text: good afternoon everyone hide from Shri Ramdev baba college of Engineering and Management use illegal weapons hijack to playing kill Captain and the trade to the World Trade to the Nations and use the narcotics to offer my mission to another people Delta stop
+drugs: 0 times
+weapons: 1 times
+hijack: 1 times
+kill: 1 times
+threat: 0 times
+narcotic: 0 times
+
+
+
+
+
+
+
+
+
+Timestamp: 2024-06-23 01:28:53
+Text: John is often involved in taking drugs and owns many legal weapons like guns and discharged by authority to hijack the plane and kill the captain Delta stop
+drugs: 1 times
+weapons: 1 times
+hijack: 1 times
+kill: 1 times
+threat: 0 times
+narcotic: 0 times
+
